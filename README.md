@@ -5,7 +5,7 @@ This MATLAB code focuses on estimating vertical seismic slowness using travel ti
 ## Methods:  
  
 - **SVD Method:** Singular Value Decomposition (SVD) estimates slowness distribution with simulated noisy data.  
-- **Tikhonov Regularization:** Applied to enhance slowness estimation using the L-curve method for optimal regularization parameter \( \alpha \).  
+- **Tikhonov Regularization:** Applied to enhance slowness estimation using the L-curve method for optimal regularization parameter( alpha ).  
 
 ## Results:  
 
