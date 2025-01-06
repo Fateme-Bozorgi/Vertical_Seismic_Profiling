@@ -1,6 +1,6 @@
 # VSP Linear Inverse Problem  
 
-This exercise MATLAB code focuses on estimating vertical seismic slowness using travel time measurements of seismic waves. 
+This MATLAB code focuses on estimating vertical seismic slowness using travel time measurements of seismic waves. 
 
 ## Methods:  
  
